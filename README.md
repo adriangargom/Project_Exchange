@@ -1,13 +1,3 @@
-# Project Exchange
-
-### Table of contents 
-1. [Project Description](#project-description)
-2. [Technologies](#technologies)
-3. [Features](#features)
-4. [User Roles](#user-roles)
-
-<br/>
-
 ## Project Description
 
 The following project consists of a native Android application to exchange items from various categories,
